@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/dhythm/github-release-example/compare/v1.2.0...v1.2.1) (2023-09-25)
+
+
+### Bug Fixes
+
+* update README.md ([c1c7ffc](https://github.com/dhythm/github-release-example/commit/c1c7ffc0ac7ffd5a01e80ff35786465cf7936fd3))
+
 ## [1.2.0](https://github.com/dhythm/github-release-example/compare/v1.1.0...v1.2.0) (2023-09-25)
 
 
