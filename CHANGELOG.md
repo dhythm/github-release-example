@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.4.2](https://github.com/dhythm/github-release-example/compare/github-release-example-v1.4.1...github-release-example-v1.4.2) (2023-10-08)
+
+
+### Bug Fixes
+
+* change inputs name ([59ed622](https://github.com/dhythm/github-release-example/commit/59ed622bb8ea00ced23316f969ee097c8e66bf3f))
+* rename last_release_sha last_tag_sha ([b0c5289](https://github.com/dhythm/github-release-example/commit/b0c52890fae99257ef829947cdb5fb36057b1aa5))
+* revert 95246d8cdb9a943a1c140b67832a8c4acd3ab786 about release-please-config.json ([34197de](https://github.com/dhythm/github-release-example/commit/34197deac55edd79500935f228f3e11001139642))
+* revert release-please-config.json and update README ([95246d8](https://github.com/dhythm/github-release-example/commit/95246d8cdb9a943a1c140b67832a8c4acd3ab786))
+* update .release-please-manifest.json ([e5019e5](https://github.com/dhythm/github-release-example/commit/e5019e5bfd0b184d8f07e596f2b97f3c04d2e2ca))
+* update .release-please-manifest.json ([#20](https://github.com/dhythm/github-release-example/issues/20)) ([0b8a148](https://github.com/dhythm/github-release-example/commit/0b8a148eb08be39bb340a4e87e7ce7ef4dc70bcf))
+* update create-release-by-relese-please-cli.yml and .release-please-manifest.json ([11a13e9](https://github.com/dhythm/github-release-example/commit/11a13e9d94bf9c3466d0856dec751b03f48fe99e))
+* update README ([#18](https://github.com/dhythm/github-release-example/issues/18)) ([8fd550b](https://github.com/dhythm/github-release-example/commit/8fd550b654e06d030dc625b421f12feb3d6257a7))
+* update release-please-config.json and revert create-release-by-release-please-cli.yml ([6fe1d10](https://github.com/dhythm/github-release-example/commit/6fe1d10627c3c3a8bcbb2a5226ac489dd032dcf0))
+
 ## [1.4.1](https://github.com/dhythm/github-release-example/compare/github-release-example-v1.4.0...github-release-example-v1.4.1) (2023-10-08)
 
 
